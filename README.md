@@ -1,6 +1,6 @@
 # code-challenge-pnw-2-vuejs
 
-My approach to solve the 2nd requirement using VueJS 3
+My approach to solve the 2nd requirement of the CodeChallenge using VueJS 3
 
 ## Project setup
 ```
